@@ -10,6 +10,8 @@ United: This one is for IIIT-B United alumni sports club website. Run the index 
 Potter-store: Go through the readme in the potter-store zip to run the website. This one is built by me and my team during an Intra-College Hackathon. It is a unofficial Harry potter merchanidse.
 
 E-mental health: An UI Prototype made from FIGMA, similar to Your Dost app.
+
+Press CTRL + ALT+ ENTER to preview
 prototype link:
 https://www.figma.com/proto/XJaa6UJkcUzeDTX1g9fIvj/MHSC?node-id=162-829&p=f&t=BWVKdVqE6BZYcLuP-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=13%3A46
 
